@@ -1,0 +1,4 @@
+{
+  "mongoDB": "mongodb+srv://tomarviii88:pApTz0mDSoeilgqC@devconnector-zlfcz.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecret"
+}
